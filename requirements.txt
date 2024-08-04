@@ -1,0 +1,8 @@
+scikit-learn
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+statsmodels
+google-generativeai
