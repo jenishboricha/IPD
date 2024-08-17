@@ -7,3 +7,8 @@ seaborn
 statsmodels
 google-generativeai
 streamlit
+moviepy
+requests
+os
+re
+
